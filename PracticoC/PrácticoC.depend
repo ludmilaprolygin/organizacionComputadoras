@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1601741169 source:c:\users\mlpro\documents\universidad\computacion\2 - organización de computadoras\práctica\programas\prácticoc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"automovil.h"
+	"empleado.h"
+
+1601340641 c:\users\mlpro\documents\universidad\computacion\2 - organización de computadoras\práctica\programas\prácticoc\automovil.h
+
+1601340268 c:\users\mlpro\documents\universidad\computacion\2 - organización de computadoras\práctica\programas\prácticoc\empleado.h
+

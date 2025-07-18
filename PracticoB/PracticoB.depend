@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1601332906 source:c:\users\mlpro\documents\universidad\computacion\2 - organización de computadoras\práctica\programas\practicob\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1601333110 source:c:\users\mlpro\documents\universidad\computacion\2 - organización de computadoras\práctica\programas\prácticob\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

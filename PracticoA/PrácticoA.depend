@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600046528 source:c:\users\mlpro\documents\universidad\computación\2 - organización de computadoras\práctica\programas\prácticoa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
